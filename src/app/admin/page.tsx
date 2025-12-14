@@ -81,7 +81,7 @@ export default function AdminDashboard() {
 
                     <div style={{ marginBottom: '1.5rem' }}>
                         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.5rem' }}>
-                            <span style={{ fontSize: '0.875rem', color: '#4A5568', fontSize: '0.875rem' }}>Task Completion Rate</span>
+                            <span style={{ fontSize: '0.875rem', color: '#4A5568' }}>Task Completion Rate</span>
                             <span style={{ fontSize: '1.25rem', fontWeight: 700, color: '#00C853' }}>71%</span>
                         </div>
                         <div style={{ width: '100%', height: '8px', background: '#F4F7FE', borderRadius: '4px' }}>
